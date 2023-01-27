@@ -1,7 +1,7 @@
 # quest-landing-page-with-single-introductory-section
 Uma Quest de HTML e CSS3, com o intuito de criar uma landing page, desafiando nossos conhecimentos adquiridos até este momento no curso DevQuest. 🚀
 
-<img src="./Animação-huddle-landing-page.gif" alt= "gif do desafio Huddle">
+<img src="./animação-huddle-landing-page.gif" alt= "gif do desafio Huddle">
 
 ## Tecnologias utilizadas
 
